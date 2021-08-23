@@ -6,5 +6,4 @@ praktikum html 2:
 praktikum html 3:
 ![Alt Text](https://github.com/samryn/praktikum-html/blob/modul-html/screenshot%20hasil%20praktikum%20html%203.png)
 
-praktikum css 1:
-![Alt Text](https://github.com/samryn/praktikum-html/blob/modul-html/screenshot%20hasil%20praktikum%20css%201.png)
+
